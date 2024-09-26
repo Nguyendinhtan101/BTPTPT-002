@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nguyendinhtan/Downloads/BTTHPTPMQL-Dinhtan2207/MvcTAN/MvcTAN.csproj": {}
+    "/Users/nguyendinhtan/Downloads/BTPTPMQL-Nguyentan718/MvcTAN/MvcTAN.csproj": {}
   },
   "projects": {
-    "/Users/nguyendinhtan/Downloads/BTTHPTPMQL-Dinhtan2207/MvcTAN/MvcTAN.csproj": {
+    "/Users/nguyendinhtan/Downloads/BTPTPMQL-Nguyentan718/MvcTAN/MvcTAN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nguyendinhtan/Downloads/BTTHPTPMQL-Dinhtan2207/MvcTAN/MvcTAN.csproj",
+        "projectUniqueName": "/Users/nguyendinhtan/Downloads/BTPTPMQL-Nguyentan718/MvcTAN/MvcTAN.csproj",
         "projectName": "MvcTAN",
-        "projectPath": "/Users/nguyendinhtan/Downloads/BTTHPTPMQL-Dinhtan2207/MvcTAN/MvcTAN.csproj",
+        "projectPath": "/Users/nguyendinhtan/Downloads/BTPTPMQL-Nguyentan718/MvcTAN/MvcTAN.csproj",
         "packagesPath": "/Users/nguyendinhtan/.nuget/packages/",
-        "outputPath": "/Users/nguyendinhtan/Downloads/BTTHPTPMQL-Dinhtan2207/MvcTAN/obj/",
+        "outputPath": "/Users/nguyendinhtan/Downloads/BTPTPMQL-Nguyentan718/MvcTAN/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nguyendinhtan/.nuget/NuGet/NuGet.Config"

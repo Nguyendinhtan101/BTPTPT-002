@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\truon\\.nuget\\packages\\": {}
+    "/Users/nguyendinhtan/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\truon\\OneDrive\\Desktop\\BTTHPTPMQL\\NewProject\\NewProject.csproj",
+      "projectUniqueName": "/Users/nguyendinhtan/Downloads/BTPTPMQL-Nguyentan718/html/ProjectMVC/NewProject.csproj",
       "projectName": "NewProject",
-      "projectPath": "C:\\Users\\truon\\OneDrive\\Desktop\\BTTHPTPMQL\\NewProject\\NewProject.csproj",
-      "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\truon\\OneDrive\\Desktop\\BTTHPTPMQL\\NewProject\\obj\\",
+      "projectPath": "/Users/nguyendinhtan/Downloads/BTPTPMQL-Nguyentan718/html/ProjectMVC/NewProject.csproj",
+      "packagesPath": "/Users/nguyendinhtan/.nuget/packages/",
+      "outputPath": "/Users/nguyendinhtan/Downloads/BTPTPMQL-Nguyentan718/html/ProjectMVC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/nguyendinhtan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
