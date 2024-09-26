@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Text.Encodings.Web;
 namespace MvcMovie.Controllers
 {
-    public class studentcontrller : Controller
+    public class ngDinhTan-1921050718: Controller
     { 
         // GET: /HelloWorld/
         public string Index()
