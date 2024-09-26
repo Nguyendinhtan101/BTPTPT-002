@@ -6,9 +6,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using MvcTAN.Data;
-using Mvctan.Models;
+using MvcTAN.Models;
 
-namespace MvcMovie.Controllers
+namespace MvcTAN.Controllers
 {
     public class LopController : Controller
     {

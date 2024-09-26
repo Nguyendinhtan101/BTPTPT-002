@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Text.Encodings.Web;
-namespace MvcMovie.Controllers
+namespace MvcTAN.Controllers
 {
     public class ngDinhTan-1921050718: Controller
     { 
