@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/nguyendinhtan/Downloads/BTPTPMQL-Nguyentan718/MvcTAN
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/nguyendinhtan/Downloads/BTPTPMQL-Nguyentan718/MvcTAN/Views/accout.cs/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvYWNjb3V0LmNzL2luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/nguyendinhtan/Downloads/BTPTPMQL-Nguyentan718/MvcTAN/Views/employee.cshtml/test.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvZW1wbG95ZWUuY3NodG1sL3Rlc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -36,6 +40,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/nguyendinhtan/Downloads/BTPTPMQL-Nguyentan718/MvcTAN/Views/Helloworld/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGVsbG93b3JsZC9pbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nguyendinhtan/Downloads/BTPTPMQL-Nguyentan718/MvcTAN/Views/Home.cs/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS5jcy9pbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/nguyendinhtan/Downloads/BTPTPMQL-Nguyentan718/MvcTAN/Views/Home/Index.cshtml]
