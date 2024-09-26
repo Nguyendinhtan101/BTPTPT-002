@@ -54,6 +54,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/nguyendinhtan/Downloads/BTPTPMQL-Nguyentan718/MvcTAN/Views/person/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvcGVyc29uL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nguyendinhtan/Downloads/BTPTPMQL-Nguyentan718/MvcTAN/Views/person/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvcGVyc29uL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/nguyendinhtan/Downloads/BTPTPMQL-Nguyentan718/MvcTAN/Views/person/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvcGVyc29uL2luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

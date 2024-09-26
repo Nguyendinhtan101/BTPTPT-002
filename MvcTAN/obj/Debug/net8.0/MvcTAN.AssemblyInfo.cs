@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MvcTAN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c3612598b86e6ead763865a3950d9d0658edfd2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b03cb815e663c9a0f1089c4d358ce4684aaa251")]
 [assembly: System.Reflection.AssemblyProductAttribute("MvcTAN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MvcTAN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
