@@ -1,11 +1,18 @@
-namespace Mvctan.Models
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
+
+namespace MvcTAN.Models
+
 {
-    public class Employee
-    {
-        public string PersonId { get; set; }
-        public string FullName { get; set; }
-        public string Address { get; set; }
-        public string EmployeeId { get; set; }
-        public int Age { get; set; }
-    }
+    [Table("Lop")]
+public class Lop
+{
+   
+
+    [Key]
+
+    public string? Person{get;set;}
+    public string? FullName{get;set;}
+    public string? Address{get;set;}
 }

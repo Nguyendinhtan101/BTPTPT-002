@@ -1,14 +1,19 @@
 using system.componentModel.DataAnnotation;
-namespace mvcTAN.Models;
-{
-[table ("person")]
+namespace MvcTAN.Models;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
-pudlic class preson
+namespace MvcTAN.Models;
+
+[Table("Persons")]
+public class Person
 {
+   
+
     [Key]
-pudlic string personID {Get;set}
-pudlic string fullname {get;set}
 
-pudlic string Address {get;set}
-}
+    public string? PersonId{get;set;}
+    public string? FullName{get;set;}
+    public string? Address{get;set;}
 }
