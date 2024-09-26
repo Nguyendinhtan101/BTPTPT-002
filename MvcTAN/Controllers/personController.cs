@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using MvcTAN.Models;
 namespace MvcTAN.Controllers
 {
-    public class PersonController : Controller
+    public class personController : Controller
      {
         public IActionResult Index()
 {
@@ -22,11 +22,11 @@ using MvcTAN.Models;
 
 namespace MvcTAN.Controllers
 {
-    public class PersonController : Controller
+    public class personController : Controller
     {
         private readonly ApplicationDbContext _context;
 
-        public PersonController(ApplicationDbContext context)
+        public personController(ApplicationDbContext context)
         {
             _context = context;
         }
