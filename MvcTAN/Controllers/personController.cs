@@ -1,7 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Mvctan.Models;
-namespace Mvctan.Controllers
+using MvcTAN.Models;
+namespace MvcTAN.Controllers
 {
     public class PersonController : Controller
      {
@@ -17,10 +17,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using MvcMovie.Data;
-using MvcMovie.Models;
+using MvcTAN.Data;
+using MvcTAN.Models;
 
-namespace MvcMovie.Controllers
+namespace MvcTAN.Controllers
 {
     public class PersonController : Controller
     {
@@ -77,7 +77,7 @@ namespace MvcMovie.Controllers
             return View(person);
         }
 
-        // GET: Person/Edit/5
+       
         public async Task<IActionResult> Edit(string id)
         {
             if (id == null)
@@ -93,9 +93,7 @@ namespace MvcMovie.Controllers
             return View(person);
         }
 
-        // POST: Person/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+   
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(string id, [Bind("PersonId,FullName,Address")] Person person)
